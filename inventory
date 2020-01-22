@@ -6,3 +6,9 @@
 11.11.11.11
 22.22.22.22
 33.33.33.33
+
+[web:vars]
+package_name=nginx
+
+[db:vars]
+package_name=mysql
